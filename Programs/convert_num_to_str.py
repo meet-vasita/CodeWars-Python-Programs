@@ -14,3 +14,8 @@ def number_to_string(num):
 
 n_to_s = number_to_string(123)
 print(type(n_to_s))
+
+# -------
+
+def number_to_string(n):
+  return str(n)
